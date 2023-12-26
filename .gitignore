@@ -1,4 +1,4 @@
 .idea
-*.sav # SPSS files
+*.sav
 *.html
-*.dta # STATA files
+*.dta
